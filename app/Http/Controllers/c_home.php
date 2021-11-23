@@ -31,7 +31,7 @@ class c_home extends Controller
             ]);
         } else {
             return view('/login',[
-                "title"=>"Customer",
+                "title"=>"Login",
                 "cek"=>'1'
             ]);
         }
