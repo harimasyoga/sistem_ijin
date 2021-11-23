@@ -34,7 +34,7 @@
     </script>
 
 
-    <div align="center">
+    <div align="center" class="mt-5">
         <tr>
             <td><a><img width="150px" src="img/mediatama.png" alt="mediatama"></a><br>
             </td>    
