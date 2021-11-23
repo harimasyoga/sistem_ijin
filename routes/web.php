@@ -26,9 +26,9 @@ Route::get('/login', function () {
 });
 
 Route::get('/', function () {
-    return view('home',[
-        "title"=>"Home",
-        "user"=>"admin"
+    return view('login',[
+        "title"=>"Login",
+        "cek"=>"0"
     ]);
 });
 
